@@ -1,4 +1,4 @@
-# 🥘 find_my_reciepe
+# 🥘 Find My Recipe
 
 A Flutter-powered mobile application that helps users find recipes based on ingredients they have in their kitchen. Perfect for reducing food waste and discovering new meal ideas!
 
